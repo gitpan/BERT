@@ -19,3 +19,5 @@ t/03-erlang.t
 t/04-types.t
 t/05-exception.t
 t/pod.t
+META.yml                                 Module YAML meta-data (added by MakeMaker)
+META.json                                Module JSON meta-data (added by MakeMaker)

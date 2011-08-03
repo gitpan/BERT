@@ -1,0 +1,26 @@
+---
+abstract: 'BERT serializer/deserializer'
+author:
+  - 'Sherwin Daganato <sherwin@daganato.com>'
+build_requires:
+  ExtUtils::MakeMaker: 0
+configure_requires:
+  ExtUtils::MakeMaker: 0
+dynamic_config: 1
+generated_by: 'ExtUtils::MakeMaker version 6.58, CPAN::Meta::Converter version 2.110930001'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: BERT
+no_index:
+  directory:
+    - t
+    - inc
+requires:
+  Test::More: 0
+resources:
+  bugtracker: https://github.com/sherwind/perl-BERT/issues
+  license: http://dev.perl.org/licenses/
+  repository: https://github.com/sherwind/perl-BERT.git
+version: 0.03
